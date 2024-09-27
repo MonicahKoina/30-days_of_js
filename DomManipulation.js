@@ -19,4 +19,4 @@ document.getElementsByTagName("h1")[0].innerHTML = "yow"; // while using the get
 document.getElementsByClassName("practice")[0].innerHTML = "just tried it out"; // you have to specify the index 
 
 // the querySelector(all) method
-// 
+// it returns the available elements that matches the specified css selector , if no matches null is returned
